@@ -1,0 +1,14 @@
+#img-profile {
+    display: inline-block;
+    width: 30%;
+    float: right;
+    margin-top: 20px;
+    margin-bottom: 40px;
+    margin-left: 3%;
+}
+
+p {
+    display: inline-block;
+    max-width: 67%;
+    margin-bottom: 0 !important;
+}
